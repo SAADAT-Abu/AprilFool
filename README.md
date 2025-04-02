@@ -9,11 +9,11 @@
 ---
 
 Ever run a heavy pipeline from `nf-core` only to have it crash halfway because your disk hit 100%? 😫
-This cheeky little script helps you reclaim space *without* making the pipeline cry. Replace large output files with empty placeholders—or move them to an external drive—all while fooling your pipeline into thinking everything’s still there. 😉
+This cheeky little script helps you reclaim space *without* making the pipeline cry. Replace large output files with empty placeholders—or move them to an external drive—all while fooling your pipeline into thinking everything’s still there.
 
 ---
 
-## 🧠 Why April_Fool?
+## Why April_Fool?
 
 Sometimes, you don’t want to delete them just yet—but you **need your disk back** to keep things running.
 
@@ -27,7 +27,7 @@ Your pipeline thinks it's business as usual. Meanwhile, you’re saving **gigaby
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🔁 Two modes: "Just Wipe" or "Move and Replace"
 - 🎯 Preserves file structure
@@ -37,18 +37,19 @@ Your pipeline thinks it's business as usual. Meanwhile, you’re saving **gigaby
 
 ---
 
-## 📦 Usage
+## Usage
 
 ```bash
 ./April_Fool.sh -i /path/to/output_dir [-d /path/to/external_HDD] [-m]
 ```
 
 ## Options
-
+```
 -i Input/output directory (where your pipeline writes files)
 -d Destination directory (e.g., your external HDD)
 -m Move files to destination before replacing with placeholders
 -h Show help message
+```
 
 ## Example
 
