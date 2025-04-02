@@ -1,4 +1,4 @@
-# 🎭 April_Fool.sh — Outsmart Your Pipeline, Save Your Disk
+# 🎭 April_Fool — Outsmart Your Pipeline, Save Your Disk
 
 [![nf-core](https://img.shields.io/badge/nf--core-brightgreen?logo=nextflow)](https://nf-co.re/)
 [![Nextflow](https://img.shields.io/badge/nextflow-%E2%9C%94-green?logo=nextflow)](https://www.nextflow.io/)
