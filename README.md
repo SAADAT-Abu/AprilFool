@@ -1,6 +1,6 @@
 # 🎭 April_Fool.sh — Outsmart Your Pipeline, Save Your Disk
 
-[![nf-core](https://img.shields.io/badge/nf--core-verified-brightgreen?logo=nextflow)](https://nf-co.re/)
+[![nf-core](https://img.shields.io/badge/nf--core-brightgreen?logo=nextflow)](https://nf-co.re/)
 [![Nextflow](https://img.shields.io/badge/nextflow-%E2%9C%94-green?logo=nextflow)](https://www.nextflow.io/)
 [![Bash Script](https://img.shields.io/badge/script-bash-blue?logo=gnu-bash)](https://www.gnu.org/software/bash/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -70,7 +70,7 @@ Be sure to back up any critical data before using!
 
 ## Credits
 
-Developed by [Abu Saadat] aka the disk-saving ninja 🥷
+Developed by Abu Saadat aka the disk-saving ninja 🥷
 Idea born out of desperation, tested under /mnt/panic.
 
 Thanks to the fantastic nf-core and Nextflow communities for making pipelines awesome.
